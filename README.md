@@ -1,27 +1,28 @@
-# 上海天文台SKA数据中心原型系统用户手册 
+# China SKA Regional Center Prototype User guide
 
-[![Documentation Status](https://readthedocs.org/projects/shaoska-user-guide/badge/?version=latest)](https://shaoska-user-guide.readthedocs.io/zh_CN/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/user-guide-docs-en-us/badge/?version=latest)](https://shaoska-user-guide.readthedocs.io/en/latest/?badge=latest)
 
-本文档为上海天文台SKA数据中心原型系统用户手册，网址为 :link: [CSRC-P用户手册](https://shaoska-user-guide.readthedocs.io/) 。
+This guide show you hoave to use ChinaSRC, the weblink :link: [ChinaSRC-P User Guide](https://shaoska-user-guide.readthedocs.io/en/latest/) 。
 
-文档使用reStructureText书写，并在readthedocs发布。
+Checkout the Chinese version [ChinaSRC用户手册](https://shaoska-user-guide.readthedocs.io/zh_CN/latest/)
+
+The document was writtent using reStructureText, and published on readthedocs
 
 
-## 本地预览
+## Local preview
 
-首先创建虚拟环境，确保已经安装了venv，然后执行：
+Create an virtual environment at first, make sure you've install venv, then type the following command:
 
 ```bash
 $ make html
 ```
 
-即可在_build生成预览文档。
+You will saw the preview document in `_build`
 
-## 贡献
+## Contribution
 
-欢迎评论、建议及PR。
+Suggestion, command and PR are welcome。
 
-## 联系我们
+## Contact
 
-Welcome comments, issuse and PR.
-有任何问题，请联系我们 :mailbox: shaoska@shao.ac.cn 
+:mailbox: shaoska@shao.ac.cn 

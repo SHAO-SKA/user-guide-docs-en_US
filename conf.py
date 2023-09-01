@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ChinaSRC-P User Guide'
-copyright = '2022, ChinaSRC TEAM'
+copyright = '2018-2023, ChinaSRC TEAM'
 author = 'ChinaSRC Team'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = 'v1.3'
+release = 'v2.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -110,7 +110,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CSKAUserGuidedoc'
+htmlhelp_basename = 'ChinaSRCUserGuidedoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
