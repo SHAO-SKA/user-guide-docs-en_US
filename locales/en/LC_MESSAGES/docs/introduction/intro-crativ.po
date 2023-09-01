@@ -9,28 +9,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ChinaSRC-P User Guide \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-27 12:55+0800\n"
+"POT-Creation-Date: 2023-08-14 12:32+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: ChinaSRC Team <shaoska@shao.ac.cn>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
-#: ../../docs/introduction/intro-crativ.rst:4 86dcb94948e1455e916951f31d596198
+#: ../../docs/introduction/intro-crativ.rst:4 0713024ffd3a4de9a16a28d7b35fb2ef
 msgid "CRATIV平台"
-msgstr ""
+msgstr "CRATIV Platform"
 
-#: ../../docs/introduction/intro-crativ.rst:6 c53efdcb1d484fe59160877c34a4d6e2
+#: ../../docs/introduction/intro-crativ.rst:6 f131c64f71c14f3cb6ef1dacc5f7520d
 msgid ""
 "CSRC-P平台还包括一台CRATIV系统，主要用于前期的数据处理与软件开发。 远程登录可以使用VNC软件，软件使用module系统。 "
 "详细信息可邮件 shaoska@shao.ac.cn & chinasrc@googlegroups.com 咨询 。"
 msgstr ""
+"The ChinaSRC-P platform also includes a CRATIV system, primarily used for early-stage data processing and software development. Remote access can be achieved using VNC software, and software usage is managed through the module system."
+"For further details, please feel free to reach out to us via email at shaoska@shao.ac.cn or chinasrc@googlegroups.com for inquiries."
 
-#: ../../docs/introduction/intro-crativ.rst:11 d4c434b295564311a9f097244241d396
+#: ../../docs/introduction/intro-crativ.rst:11 73d8d2509425477bbcc8e60565ac0336
 msgid ". CRATIV具有256G RAM/50TB Storage/Intel(R) Xeon(R) CPU E5-2698."
-msgstr ""
+msgstr ". CRATIV has 256G RAM/50TB Storage/Intel(R) Xeon(R) CPU E5-2698."
 

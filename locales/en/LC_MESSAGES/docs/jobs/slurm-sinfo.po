@@ -9,106 +9,106 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ChinaSRC-P User Guide \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-27 12:55+0800\n"
+"POT-Creation-Date: 2023-08-14 12:32+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: ChinaSRC Team <shaoska@shao.ac.cn>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
-#: ../../docs/jobs/slurm-sinfo.rst:3 3edda02731bd4c9dbe39d877a9ab0c99
+#: ../../docs/jobs/slurm-sinfo.rst:3 179f9bf102d84dfba62dc2e9cba3137a
 msgid "计算节点状态查看sinfo"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:5 ff49dc38bb0c4d149addad3531e928ba
+#: ../../docs/jobs/slurm-sinfo.rst:5 41910f5b83e3420cba3c718cdcd8f2d2
 msgid "可以通过sinfo来查看计算节点的状态"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:11 67588ac212224c5a9969bf28071fa1c8
+#: ../../docs/jobs/slurm-sinfo.rst:11 a44ca3e8e167407f922a5d767dd04986
 msgid "输出如下："
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:16 d3b2414566cf4debbfb7f4a974d68c05
+#: ../../docs/jobs/slurm-sinfo.rst:16 3690d6efccd942b9840c02941e42f692
 msgid "其中各项参数的含义如下："
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:18 867ce410a60b41f194adc27ae95f8c5f
+#: ../../docs/jobs/slurm-sinfo.rst:18 f424740c846243e3b458bddb0da0260c
 msgid "PARTITION表示分区"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:19 c40629b0f28944ba8a6933273b74c507
+#: ../../docs/jobs/slurm-sinfo.rst:19 2a1848962f404b33a218316b0a8ce187
 msgid "AVAIL表示分区状态"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:20 ec0fcc26ddf541bc8b0b595c9b8891e8
+#: ../../docs/jobs/slurm-sinfo.rst:20 496936f8500f4541b8662b7484e07ff1
 msgid "up标识可用"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:21 8802bb8fb68346c99ce0d7c2dcf4c83e
+#: ../../docs/jobs/slurm-sinfo.rst:21 9615276df95a43c19f975b29249ea7ea
 msgid "down标识不可用"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:22 41e55d62920d426185da8a96e6203994
+#: ../../docs/jobs/slurm-sinfo.rst:22 eef61de60aa643eba09c7f80bf7640df
 msgid "TIMELIMIT表示程序运行最大时长"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:23 4edfcc4e9e49473580c06f1ab70f0d74
+#: ../../docs/jobs/slurm-sinfo.rst:23 560768530f09444596dd960eefa5e623
 msgid "infinite表示不限制,如果限制格式为days-houres:minutes:seconds"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:24 f8720723840b4c01baf37a65dcdeec3c
+#: ../../docs/jobs/slurm-sinfo.rst:24 46cabf94211649839d3d65190606c656
 msgid "NODES表示节点数"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:25 b519a655405a4f7ca10e46f3490b8b6f
+#: ../../docs/jobs/slurm-sinfo.rst:25 9b1f64f2ef3c492e8391432cbb9e0868
 msgid "NODELIST为节点列表"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:26 1c48d63e5f054cc7843003ef6c49e434
+#: ../../docs/jobs/slurm-sinfo.rst:26 1a69524dcc0f4d10812879f307053ea9
 msgid "STATE表示节点运行状态。可能的状态包括"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:27 f793ccaa24a346e9a7af1cae2c4f4028
+#: ../../docs/jobs/slurm-sinfo.rst:27 4eb21e6085914f88af0a8ad814a8ca93
 msgid "allocated、alloc ：已分配"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:28 850e613310ec40aca4da253e22b0159e
+#: ../../docs/jobs/slurm-sinfo.rst:28 110a827014554bbebe4e65fd9f8ceb5b
 msgid "completing、comp : 完成中"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:29 2cb6e125e2f04507bf0b5e627cfcffcf
+#: ../../docs/jobs/slurm-sinfo.rst:29 c12a4a3cdb2f4d60a95d8a32230d25dd
 msgid "down : 宕机"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:30 199c4d4ed7e64028ac140b3beb273248
+#: ../../docs/jobs/slurm-sinfo.rst:30 336af4f9079943a6ad75a12892e102db
 msgid "drained、drain : 已失去活力"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:31 a8b34530ddb34798871527d5c9b3c2e5
+#: ../../docs/jobs/slurm-sinfo.rst:31 e081e2c94906432684765821402acfab
 msgid "fail : 失效"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:32 57a4b3209ad445caaca665f025264ed4
+#: ../../docs/jobs/slurm-sinfo.rst:32 62dcfb7542d54fdabf13f49fef8dedb4
 msgid "idle : 空闲"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:33 b69b7b9acc6f49b1ab19102609b4db55
+#: ../../docs/jobs/slurm-sinfo.rst:33 a07a6aa2d1544f1f90c01e74b00ea6bd
 msgid "mix : 混合, 节点在运行作业, 但有些空闲CPU核, 可接受新作业"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:34 fa8c5940bba94715908d33126be1c5c2
+#: ../../docs/jobs/slurm-sinfo.rst:34 425bc56b964e412eb5bc64fdc12b86a2
 msgid "reserved、resv : 资源预留"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:35 1dc9d86441e24fffba9dc625cc13a635
+#: ../../docs/jobs/slurm-sinfo.rst:35 153c4de787d641a3a22bc24e3ed21952
 msgid "unknown、unk : 未知原因"
 msgstr ""
 
-#: ../../docs/jobs/slurm-sinfo.rst:39 ef6c45b73794488a9555d39941bd5c10
+#: ../../docs/jobs/slurm-sinfo.rst:39 c98a31e2dedf4c69ad42ec27587b4797
 msgid "如果状态带有后缀*,表示该节点没有响应。"
 msgstr ""
 
