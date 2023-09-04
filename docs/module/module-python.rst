@@ -28,6 +28,10 @@ ChinaSRC-P不部署Python module，用户可以通过上述方法加载Python软
 .. code:: bash
 
     $ python -m venv virtual_env_name
+    $ source virtual_env_name/bin/activate
+    (virtual_env_name) $ pip install --upgrade pip wheel 
+    # 如果软件包含有requirements.txt文件
+    (virtual_env_name) $ pip install -r requirements.txt
 
 
 添加环境变量,把下面语句添加到~/.bashrc中：
