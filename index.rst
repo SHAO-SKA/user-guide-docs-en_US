@@ -3,19 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-上海天文台SKA数据中心原型系统
+中国SKA区域中心原型机系统
 ===============================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
   
    docs/copyright/index.rst
    docs/introduction/intro.rst
    docs/introduction/intro-crativ.rst
    docs/login/index.rst
+   docs/data/index.rst
    docs/module/index.rst
-   docs/storage/index.rst
    docs/jobs/index.rst
    docs/faq/index.rst
 
