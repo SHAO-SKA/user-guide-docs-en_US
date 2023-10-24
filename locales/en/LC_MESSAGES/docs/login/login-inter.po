@@ -61,8 +61,9 @@ msgstr "Users can log in to the unified identity authentication platform via the
 
 #: ../../docs/login/login-inter.rst:27 7501d978d71c4d00adfa93dea694c57b
 
+#: ../../docs/login/login-inter.rst:29 da48174eb7984e4d96d37d8b442ac752
 msgid "|loginin|"
-msgstr "|webloginimage|"
+msgstr "|loginin|"
 
 #: ../../docs/login/login-inter.rst:180 10206006370340e3a872ba05c6877aa4
 
@@ -75,8 +76,9 @@ msgstr "Enter your username and password, and click on 'Login' to enter the serv
 
 #: ../../docs/login/login-inter.rst:32 4c89872bb2e54eeabe11b2ed50f3c136
 
+#: ../../docs/login/login-inter.rst:34 344322a92b9249ab81703723b5597f33
 msgid "|iam|"
-msgstr "|image3|"
+msgstr "|iam|"
 
 #: ../../docs/login/login-inter.rst:181 5a91576be9f847bdbcbfb09a225028dd
 
